@@ -1,0 +1,3 @@
+public enum K2703387_RoomStatus {
+    AVAILABLE, RESERVED, UNDER_MAINTENANCE
+}
